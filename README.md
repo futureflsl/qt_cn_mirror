@@ -16,8 +16,15 @@
 <tr><td>qt-opensource-linux-x64-5.12.6.run</td><td><a href="https://mbd.pub/o/bread/YZWWkppuaQ==">下载</a></td></tr>
 <tr><td>qt-opensource-linux-x64-5.12.12.run</td><td><a href="https://mbd.pub/o/bread/YZWWkppuaA==">下载</a></td></tr>
 <tr><td>qt-opensource-linux-x64-5.12.1.run</td><td><a href="https://mbd.pub/o/bread/YZWWkppuZw==">下载</a></td></tr>
+<tr><td>qt-opensource-windows-x86-5.11.3.exe</td><td><a href="https://mbd.pub/o/bread/YZWWkppyaQ==">下载</a></td></tr>
+<tr><td>qt-opensource-windows-x86-5.11.1.exe</td><td><a href="https://mbd.pub/o/bread/YZWWkppyag==">下载</a></td></tr>
+<tr><td>qt-opensource-windows-x86-5.11.0.exe</td><td><a href="https://mbd.pub/o/bread/YZWWkppyaw==">下载</a></td></tr>
 <tr><td>qt-opensource-linux-x64-5.10.0.run</td><td><a href="https://mbd.pub/o/bread/YZWWkppuZg==">下载</a></td></tr>
+<tr><td>qt-opensource-windows-x86-5.9.9.exe</td><td><a href="https://mbd.pub/o/bread/YZWWkppybQ==">下载</a></td></tr>
 <tr><td>qt-opensource-windows-x86-5.9.8.exe</td><td><a href="https://mbd.pub/o/bread/aJaVmppv">下载</a></td></tr>
+<tr><td>qt-opensource-windows-x86-5.9.6.exe</td><td><a href="https://mbd.pub/o/bread/YZWWkptpZA==">下载</a></td></tr>
+<tr><td>qt-opensource-windows-x86-5.9.5.exe</td><td><a href="https://mbd.pub/o/bread/YZWWkptpZQ==">下载</a></td></tr>
+<tr><td>qt-opensource-windows-x86-5.9.1.exe</td><td><a href="https://mbd.pub/o/bread/YZWWkptpZg==">下载</a></td></tr>
 <tr><td>qt-opensource-windows-x86-5.9.0.exe</td><td><a href="https://mbd.pub/o/bread/YZWWkppuZA==">下载</a></td></tr>
 </tbody>
 </table>
